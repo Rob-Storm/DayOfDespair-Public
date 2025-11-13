@@ -2,7 +2,7 @@
 
 **Day of Despair** is an early-access survival game set in a post-apocalyptic world. Gather resources, manage your inventory, and survive against the dangers of the wasteland.
 
-## 📥 Installation  
+## Installation  
 
 ### **With Launcher (Easiest)**  
 1. Download the launcher: [DayOfDespair Launcher Latest](https://github.com/Rob-Storm/DayOfDespair-Launcher/releases/latest)  
@@ -18,7 +18,7 @@
 3. Extract the contents to your desired location.  
 4. Run `DayOfDespair.exe`.  
 
-## ⌨️ Controls  
+## Controls  
 
 ### **Player Actions**  
 - **WASD** - Move  
@@ -34,11 +34,11 @@
 - **Right Click** - Equip item  
 - **Tab / Escape** - Exit Inventory  
 
-## ⚙️ Launcher Optional Arguments  
+## Launcher Optional Arguments  
 *(Optional arguments should be separated by new lines in the launcher.)*  
 - [Unreal Engine Command-Line Arguments Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-command-line-arguments-reference)
 
-## ❓ Troubleshooting  
+## Troubleshooting  
 - **Black screen on startup?** Click the screen a few times. This is due to the studio logos not properly showing on some machines.
 - **Missing files?** Try redownloading the game.
 - **Other issues?** Report bugs in the [GitHub Issues](https://github.com/Rob-Storm/DayOfDespair-Public/issues) section.
