@@ -27,7 +27,7 @@
 - **Right Click (tap)** - Perform first interaction on object  
 - **Right Click (hold & release)** - Open Action Menu  
 - **Tab** - Toggle Inventory
-- - -**G** - Drop Current Item
+- **G** - Drop Current Item
 - **Escape** - Pause Game
 
 ### **Inventory**  
