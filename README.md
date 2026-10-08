@@ -26,8 +26,9 @@
 - **Left Click** - Use equipped item  
 - **Right Click (tap)** - Perform first interaction on object  
 - **Right Click (hold & release)** - Open Action Menu  
-- **Tab** - Toggle Inventory  
-- **Escape** - Pause Game  
+- **Tab** - Toggle Inventory
+- - -**G** - Drop Current Item
+- **Escape** - Pause Game
 
 ### **Inventory**  
 - **Left Click (hold & drag)** - Move an item (e.g. from the ground to your inventory)  
